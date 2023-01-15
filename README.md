@@ -1,0 +1,2 @@
+# tailwindcss
+my tailwindcsss basics 
